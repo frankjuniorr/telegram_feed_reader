@@ -31,7 +31,7 @@ The bot token is in `constants.js`. So, is necessary create a new bot in Telegra
 ```javascript
 module.exports = {
 
-  BOT_TOKEN : '<YOUR_TOKEN_HERE>',
+  TELEGRAM_BOT_TOKEN : '<YOUR_TOKEN_HERE>',
 };
 ```
 
