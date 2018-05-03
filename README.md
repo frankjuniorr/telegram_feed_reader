@@ -1,4 +1,4 @@
-# telegram_feed_reader
+# Telegram feed reader
 
 [![environment](https://img.shields.io/badge/environment-Telegram-blue.svg?logo=telegram)](https://img.shields.io/badge/environment-Telegram-blue.svg?logo=telegram)
 
@@ -38,5 +38,3 @@ module.exports = {
 ## Use
 
 After is just `node app.js`
-
-When bot is running, just type `@a_ponte_bot` in a Telegram search
